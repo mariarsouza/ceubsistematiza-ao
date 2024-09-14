@@ -5,3 +5,4 @@ Buscar contato (por nome ou telefone)
 Remover contato (por nome ou telefone)
 Listar todos os contatos
 Exibir mensagens de confirmação ou erro
+![CrudJdbcSwing](https://github.com/user-attachments/assets/837fdb00-b032-40fc-b373-ae22e1373e57)
